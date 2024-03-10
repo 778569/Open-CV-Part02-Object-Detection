@@ -17,3 +17,8 @@
 
 ![image](https://github.com/778569/Open-CV-Part02-Object-Detection/assets/52319671/e1e83e88-2dfe-45d9-9720-8c404c74bdf9)<br><br>
 
+### After use counters
+
+![image](https://github.com/778569/Open-CV-Part02-Object-Detection/assets/52319671/f07a47cc-932b-4a13-9418-acdf94a90435) <br><br>
+
+
