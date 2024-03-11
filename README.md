@@ -25,3 +25,10 @@
 
 ![image](https://github.com/778569/Open-CV-Part02-Object-Detection/assets/52319671/4d5c8090-1194-4a2f-b61f-824219c054de) <br><br>
 
+### Segmantation and OBject Detection
+
+![image](https://github.com/778569/Open-CV-Part02-Object-Detection/assets/52319671/039d57bf-39f2-42fe-b76b-de59bf6b5fb5)
+
+### what other methos to object detection
+
+![image](https://github.com/778569/Open-CV-Part02-Object-Detection/assets/52319671/3c08eedf-cd5c-4d4a-9cbe-947912e74f4c)
