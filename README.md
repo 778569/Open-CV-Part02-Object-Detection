@@ -21,4 +21,7 @@
 
 ![image](https://github.com/778569/Open-CV-Part02-Object-Detection/assets/52319671/f07a47cc-932b-4a13-9418-acdf94a90435) <br><br>
 
+### Canny detection + thershold
+
+![image](https://github.com/778569/Open-CV-Part02-Object-Detection/assets/52319671/4d5c8090-1194-4a2f-b61f-824219c054de) <br><br>
 
